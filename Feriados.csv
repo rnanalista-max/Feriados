@@ -1,4 +1,4 @@
-VERSION,1.0.0
+VERSION,1.0.1
 data,nome,tipo,estado,municipio,descricao
 01/01/2026,Ano Novo,Feriado,,,Início do ano civil e Dia Mundial da Paz.
 25/01/2026,Aniversário de São Paulo,Feriado Municipal,,São Paulo,Celebração da fundação da cidade de São Paulo.
@@ -75,4 +75,4 @@ data,nome,tipo,estado,municipio,descricao
 17/12/2026,Lua Crescente,Fase Lunar,,,Ocorre às 02:43
 23/12/2026,Lua Cheia,Fase Lunar,,,Ocorre às 22:29
 30/12/2026,Lua Minguante,Fase Lunar,,,Ocorre às 16:00
-30/01/2026,Lua Minguante,Fase Lunar,,,teste
+31/01/2026,Lua Minguante,Fase Lunar,,,teste
