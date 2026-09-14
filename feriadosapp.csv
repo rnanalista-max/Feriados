@@ -1,28 +1,14 @@
 data,nome,tipo,estado,municipio,descricao
-01/01/2026,Ano Novo,Feriado,,,Início do ano civil e Dia Mundial da Paz.
-16/02/2026,Carnaval (Segunda-feira),Ponto Facultativo,,,Véspera de Carnaval.
-17/02/2026,Carnaval (Terça-feira),Ponto Facultativo,,,Data móvel que celebra a tradicional festa popular.
-18/02/2026,Quarta-feira de Cinzas,Ponto Facultativo,,,Início da Quaresma (facultativo até as 14h).
 08/03/2026,Dia Internacional da Mulher,Data Comemorativa,,,Celebração das conquistas sociais e políticas das mulheres.
-02/04/2026,Quinta-feira Santa,Ponto Facultativo,,,Celebração da Ceia do Senhor.
-03/04/2026,Sexta-feira Santa,Feriado,,,Paixão de Cristo.
 05/04/2026,Páscoa,Data Comemorativa,,,Celebração da ressurreição de Jesus.
-21/04/2026,Tiradentes,Feriado,,,Homenagem ao mártir da Inconfidência Mineira.
-01/05/2026,Dia do Trabalho,Feriado,,,Homenagem aos trabalhadores e conquistas trabalhistas.
 10/05/2026,Dia das Mães,Data Comemorativa,,,Homenagem às figuras maternas (2º domingo de maio).
-04/06/2026,Corpus Christi,Ponto Facultativo,,,Celebração da eucaristia.
 12/06/2026,Dia dos Namorados,Data Comemorativa,,,Data dedicada a casais e troca de presentes.
 09/08/2026,Dia dos Pais,Data Comemorativa,,,Homenagem às figuras paternas (2º domingo de agosto).
-07/09/2026,Independência do Brasil,Feriado,,,Data em que o Brasil se tornou independente de Portugal.
-12/10/2026,Nossa Senhora Aparecida,Feriado,,,Padroeira do Brasil e Dia das Crianças.
 15/10/2026,Dia do Professor,Data Comemorativa,,,Homenagem aos profissionais da educação.
-28/10/2026,Dia do Servidor Público,Ponto Facultativo,,,Data dedicada aos funcionários da administração pública.
-02/11/2026,Finados,Feriado,,,Dia dedicado à memória dos mortos.
-15/11/2026,Proclamação da República,Feriado,,,Aniversário da proclamação da república brasileira.
-20/11/2026,Consciência Negra,Feriado,,,Dia Nacional de Zumbi e da Consciência Negra.
-24/12/2026,Véspera de Natal,Ponto Facultativo,,,Véspera do nascimento de Jesus (facultativo após 14h).
-25/12/2026,Natal,Feriado,,,Celebração do nascimento de Jesus Cristo.
-31/12/2026,Véspera de Ano-Novo,Ponto Facultativo,,,Encerramento do ano civil (facultativo após 14h).
+20/03/2026,Outono,Estação do Ano,,,Outono começa hoje as 11:45h
+21/06/2026,Inverno,Estação do Ano,,,Inverno começa hoje as  05:25h
+21/09/2026,Primavera,Estação do Ano,,,Primavera começa hoje as 21:05h
+21/12/2026,Verão,Estação do Ano,,,Verão começa hoje as 18:50h
 03/01/2026,Lua Cheia,Fase Lunar,,,Ocorre às 07:04
 10/01/2026,Lua Minguante,Fase Lunar,,,Ocorre às 12:49
 18/01/2026,Lua Nova,Fase Lunar,,,Ocorre às 16:53
@@ -73,6 +59,16 @@ data,nome,tipo,estado,municipio,descricao
 17/12/2026,Lua Crescente,Fase Lunar,,,Ocorre às 02:43
 23/12/2026,Lua Cheia,Fase Lunar,,,Ocorre às 22:29
 30/12/2026,Lua Minguante,Fase Lunar,,,Ocorre às 16:00
+01/01/2026,Ano Novo,Feriado,,,Início do ano civil e Dia Mundial da Paz.
+03/04/2026,Sexta-feira Santa,Feriado,,,Paixão de Cristo.
+21/04/2026,Tiradentes,Feriado,,,Homenagem ao mártir da Inconfidência Mineira.
+01/05/2026,Dia do Trabalho,Feriado,,,Homenagem aos trabalhadores e conquistas trabalhistas.
+07/09/2026,Independência do Brasil,Feriado,,,Data em que o Brasil se tornou independente de Portugal.
+12/10/2026,Nossa Senhora Aparecida,Feriado,,,Padroeira do Brasil e Dia das Crianças.
+02/11/2026,Finados,Feriado,,,Dia dedicado à memória dos mortos.
+15/11/2026,Proclamação da República,Feriado,,,Aniversário da proclamação da república brasileira.
+20/11/2026,Consciência Negra,Feriado,,,Dia Nacional de Zumbi e da Consciência Negra.
+25/12/2026,Natal,Feriado,,,Celebração do nascimento de Jesus Cristo.
 22/03/2026,Aniversário de Xapuri,Feriado Municipal,,Xapuri,Celebração da fundação da cidade de Xapuri.
 30/03/2026,Aniversário de Plácido de Castro,Feriado Municipal,,Plácido de Castro,Celebração da fundação da cidade de Plácido de Castro.
 24/04/2026,Aniversário de Tarauacá,Feriado Municipal,,Tarauacá,Celebração da fundação da cidade de Tarauacá.
@@ -5642,7 +5638,11 @@ data,nome,tipo,estado,municipio,descricao
 19/12/2026,Aniversário de Lavandeira,Feriado Municipal,,Lavandeira,Celebração da fundação da cidade de Lavandeira.
 21/12/2026,Aniversário de Brasilândia do Tocantins,Feriado Municipal,,Brasilândia do Tocantins,Celebração da fundação da cidade de Brasilândia do Tocantins.
 31/12/2026,Aniversário de Presidente Kennedy,Feriado Municipal,,Presidente Kennedy,Celebração da fundação da cidade de Presidente Kennedy.
-20/03/1026,Outono,Estação do Ano,,,Outono começa hoje as 11:45h
-21/06/2026,Inverno,Estação do Ano,,,Inverno começa hoje as  05:25h
-21/09/2026,Primavera,Estação do Ano,,,Primavera começa hoje as 21:05h
-21/12/2026,Verão,Estação do Ano,,,Verão começa hoje as 18:50h
+16/02/2026,Carnaval (Segunda-feira),Ponto Facultativo,,,Véspera de Carnaval.
+17/02/2026,Carnaval (Terça-feira),Ponto Facultativo,,,Data móvel que celebra a tradicional festa popular.
+18/02/2026,Quarta-feira de Cinzas,Ponto Facultativo,,,Início da Quaresma (facultativo até as 14h).
+02/04/2026,Quinta-feira Santa,Ponto Facultativo,,,Celebração da Ceia do Senhor.
+04/06/2026,Corpus Christi,Ponto Facultativo,,,Celebração da eucaristia.
+28/10/2026,Dia do Servidor Público,Ponto Facultativo,,,Data dedicada aos funcionários da administração pública.
+24/12/2026,Véspera de Natal,Ponto Facultativo,,,Véspera do nascimento de Jesus (facultativo após 14h).
+31/12/2026,Véspera de Ano-Novo,Ponto Facultativo,,,Encerramento do ano civil (facultativo após 14h).
