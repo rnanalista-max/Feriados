@@ -11289,4 +11289,8 @@ data,nome,tipo,estado,municipio,descricao
 13/12/2027,Lua Cheia,Fase Lunar,,,Ocorre às 13:08
 20/12/2027,Lua Minguante,Fase Lunar,,,Ocorre às 06:10
 27/12/2027,Lua Nova,Fase Lunar,,,Ocorre às 17:12
-
+data,nome,tipo,estado,municipio,descricao
+20/03/2027,Outono,Estação do Ano,,,Outono começa hoje as 17:24h
+21/06/2027,Inverno,Estação do Ano,,,Inverno começa hoje as 11:10h
+23/09/2027,Primavera,Estação do Ano,,,Primavera começa hoje as 03:01h
+21/12/2027,Verão,Estação do Ano,,,Verão começa hoje as 23:42h
